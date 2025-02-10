@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\KhoaLuan\\DXA_KinhDoanhNoiThat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A74923-0418-478F-A7EA-6267EE8FCBDD}|DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat.csproj|f:\\khoaluan\\dxa_kinhdoanhnoithat\\dxa_kinhdoanhnoithat\\uc_napdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7A74923-0418-478F-A7EA-6267EE8FCBDD}|DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat.csproj|solutionrelative:dxa_kinhdoanhnoithat\\uc_napdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A74923-0418-478F-A7EA-6267EE8FCBDD}|DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat.csproj|F:\\KhoaLuan\\DXA_KinhDoanhNoiThat\\dxa_kinhdoanhnoithat\\form_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A74923-0418-478F-A7EA-6267EE8FCBDD}|DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat.csproj|solutionrelative:dxa_kinhdoanhnoithat\\form_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A74923-0418-478F-A7EA-6267EE8FCBDD}|DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat.csproj|F:\\KhoaLuan\\DXA_KinhDoanhNoiThat\\dxa_kinhdoanhnoithat\\form_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7A74923-0418-478F-A7EA-6267EE8FCBDD}|DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat.csproj|solutionrelative:dxa_kinhdoanhnoithat\\form_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_NapDL.cs [Design]",
+              "DocumentMoniker": "F:\\KhoaLuan\\DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat\\UC_NapDL.cs",
+              "RelativeDocumentMoniker": "DXA_KinhDoanhNoiThat\\UC_NapDL.cs",
+              "ToolTip": "F:\\KhoaLuan\\DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat\\UC_NapDL.cs [Design]",
+              "RelativeToolTip": "DXA_KinhDoanhNoiThat\\UC_NapDL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:02:25.712Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_TrangChu.cs",
+              "DocumentMoniker": "F:\\KhoaLuan\\DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat\\Form_TrangChu.cs",
+              "RelativeDocumentMoniker": "DXA_KinhDoanhNoiThat\\Form_TrangChu.cs",
+              "ToolTip": "F:\\KhoaLuan\\DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat\\Form_TrangChu.cs",
+              "RelativeToolTip": "DXA_KinhDoanhNoiThat\\Form_TrangChu.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwEQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:54:26.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_TrangChu.cs [Design]",
+              "DocumentMoniker": "F:\\KhoaLuan\\DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat\\Form_TrangChu.cs",
+              "RelativeDocumentMoniker": "DXA_KinhDoanhNoiThat\\Form_TrangChu.cs",
+              "ToolTip": "F:\\KhoaLuan\\DXA_KinhDoanhNoiThat\\DXA_KinhDoanhNoiThat\\Form_TrangChu.cs [Design]",
+              "RelativeToolTip": "DXA_KinhDoanhNoiThat\\Form_TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:40:54.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

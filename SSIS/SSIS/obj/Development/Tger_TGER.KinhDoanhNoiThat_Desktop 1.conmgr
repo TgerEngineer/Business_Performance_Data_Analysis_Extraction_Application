@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Tger_TGER.KinhDoanhNoiThat_Desktop 1"
+  DTS:DTSID="{3E683C58-03A4-48EE-A226-38623A682234}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=Tger\TGER;Initial Catalog=KinhDoanhNoiThat_Desktop;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SSIS-{3E683C58-03A4-48EE-A226-38623A682234}Tger\TGER.KinhDoanhNoiThat_Desktop;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

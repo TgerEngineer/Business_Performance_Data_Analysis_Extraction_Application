@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Tger_TGER.KinhDoanhNoiThat_SnowflakeSchema"
+  DTS:DTSID="{FDB785B4-6158-4556-BFEC-8B8A42FC15CD}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=Tger\TGER;Initial Catalog=KinhDoanhNoiThat_SnowflakeSchema;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SSIS-{FDB785B4-6158-4556-BFEC-8B8A42FC15CD}Tger\TGER.KinhDoanhNoiThat_SnowflakeSchema;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

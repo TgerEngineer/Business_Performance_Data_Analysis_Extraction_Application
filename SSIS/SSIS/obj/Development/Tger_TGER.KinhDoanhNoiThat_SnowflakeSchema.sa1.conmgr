@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Tger_TGER.KinhDoanhNoiThat_SnowflakeSchema.sa1"
+  DTS:DTSID="{7D0428A5-1A5F-499F-AEE5-792A193F00BD}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=Tger\TGER;User ID=sa;Initial Catalog=KinhDoanhNoiThat_SnowflakeSchema;Application Name=SSIS-SSIS-{7D0428A5-1A5F-499F-AEE5-792A193F00BD}Tger\TGER.KinhDoanhNoiThat_SnowflakeSchema.sa1;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIWSIXEKxj0OvKrDaJJWY+QAAAAACAAAAAAAQZgAAAAEAACAAAABYT/GWCBOkjCXNUu3107gNHjDc9vrq7BGQ8Dswn1gHYQAAAAAOgAAAAAIAACAAAAAiqEMOoz1hRvfGMTwGk7QB7fn1tro6od3fcuTMOOXYAnAAAAAlwRu9tHrWg+IrYUlszk+q6Y/qzr2PdPGSUmXORPJLDiTMpORiaJZGbOhZof3GMje53+aW2K6FKt67ySCF2rRu1jQxIAWns8in35vWgMUKQdTYaRwGx/kYh4W10EdoIBBMaj1JKJMDq5quWCApNhUcQAAAAF8jqlIVduYvnhhpJ6n3PR4P2cUwew0WW/zTJkxJpLFsOaw53jUP6R9R11FBcHQFJ85gHyeBZas8HFH0NtRgrRQ=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

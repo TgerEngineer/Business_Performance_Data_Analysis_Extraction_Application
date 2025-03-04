@@ -14,10 +14,11 @@ This project aims to solve the challenges of business data management and analys
 ---
 
 ## 🛠 **Technologies Used**  
-- **Backend**: C#, ASP.NET  
-- **Database & BI**: SQL Server 2019, SSAS, MDX, SSDT  
+- **Backend**: C#,.NET
+- **UI**: DevExpress, ASP.NET Core MVC, Winform
+- **Database & BI**: SQL Server, SSAS, MDX, SSDT  
 - **ETL & Data Processing**: SQL Server Integration Services (SSIS)  
-- **Development Tools**: Visual Studio 2019  
+- **Development Tools**: Visual Studio
 
 ---
 
